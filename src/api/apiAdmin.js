@@ -19,6 +19,6 @@ export const createProduct = (token, data) => {
     })
 }
 
-export const getCategories = () => {
-    return axios.get(`${API}/category`)
-}
+// export const getCategories = () => {
+//     return axios.get(`${API}/category`)
+// }
